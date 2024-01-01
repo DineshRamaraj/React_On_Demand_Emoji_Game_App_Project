@@ -20,13 +20,13 @@
 @media screen and (min-width: 992px) {
   .win-or-lose-card {
     flex-direction: row;
-    width: 70%;
+    width: 100%;
   }
 }
 
 @media screen and (min-width: 1200px) {
   .win-or-lose-card {
-    width: 60%;
+    width: 100%;
   }
 }
 
